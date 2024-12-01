@@ -1,12 +1,14 @@
 # Cryptocurrency Trading Platform
 
-This is a **Cryptocurrency Trading Platform** developed using **React (with TypeScript)** and **Vite**. The app provides a sleek UI for trading cryptocurrencies, managing user profiles, and handling wallet transactions. It supports **night/day mode** for a customizable user experience. **CoinGecko API** is used to fetch real-time cryptocurrency data.
+This is a **Cryptocurrency Trading Platform** developed using **React (with TypeScript)** and **Vite**. The app provides a sleek and responsive UI for trading cryptocurrencies, managing profiles, and handling wallet transactions. It also includes a **real-time trading graph** from **TradingView** and features **live data** from the **CoinGecko API**.
 
 ## Features
 
 - **Trade Crypto:** Buy and sell cryptocurrencies with real-time price updates.
-- **Manage Profile:** Update personal details.
-- **Wallet Management:** Add funds, withdraw money, and track transactions.
+- **Trading Graph:** Visualize market trends with a real-time graph from **TradingView**.
+- **Filterable Crypto List:** Easily search and filter through a list of cryptocurrencies.
+- **Profile Management:** Update personal details.
+- **Wallet Management:** Add funds, withdraw money, and view transaction history.
 - **Night/Day Mode:** Toggle between light and dark themes.
 
 ## Tech Stack
@@ -14,6 +16,7 @@ This is a **Cryptocurrency Trading Platform** developed using **React (with Type
 - **React (TypeScript)**: Frontend framework.
 - **Vite**: Fast build and development tool.
 - **CoinGecko API**: For live cryptocurrency data.
+- **TradingView Widget**: For real-time trading graphs.
 
 ## Installation and Setup
 
@@ -45,10 +48,11 @@ This is a **Cryptocurrency Trading Platform** developed using **React (with Type
 
 ## How to Use
 
-- Navigate to the trading page for crypto transactions.
-- Update user details on the profile page.
-- Add/withdraw funds and view balance on the wallet page.
-- Switch between light and dark modes for a personalized look.
+- **Main Page:** Trade cryptocurrencies and view real-time trading graphs.
+- **Filter Crypto List:** Quickly search for specific cryptocurrencies.
+- **Profile Page:** Update your user details.
+- **Wallet Page:** Add/withdraw funds and track your wallet balance.
+- **Night/Day Mode:** Switch between light and dark themes.
 
 ## License
 
